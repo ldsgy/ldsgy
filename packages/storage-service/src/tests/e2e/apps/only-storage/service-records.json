@@ -1,0 +1,22 @@
+[
+  {
+    "id": "6666d6bb232a16222f468046",
+    "createdAt": "2024-06-10T10:34:35.560Z",
+    "updatedAt": "2024-06-10T10:34:35.560Z",
+    "type": "APPLICATION",
+    "organization": "6308daaa94212a056b50926c",
+    "settings": {
+      "name": "test application name",
+      "description": "test application description",
+      "exposeServiceInfo": true
+    }
+  },
+  {
+    "id": "6666d6bb232a16222f468048",
+    "type": "STORAGE",
+    "parentId": "6666d6bb232a16222f468046",
+    "settings": {
+      "uri": "https://ali-oss-credentials.ldsgy.com/credential?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWdpb24iOiJjbi1oYW5nemhvdSIsImJ1Y2tldCI6Imxkc2d5LXN0b3JhZ2UiLCJwcmVmaXgiOiJ0ZXN0IiwiZXh0ZXJuYWxJZCI6InRlc3RFeHRlcm5hbElkIn0.-PbjxIvj51jekT2doSQhuycvuvwj_2yvD04YX_QaqoE"
+    }
+  }
+]

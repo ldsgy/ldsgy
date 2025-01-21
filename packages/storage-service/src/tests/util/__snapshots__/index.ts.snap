@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`storage service download 1`] = `
+{
+  "bucket": "ldsgy-storage",
+  "credentialsUri": "https://ali-oss-credentials.ldsgy.com/credential?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWdpb24iOiJjbi1oYW5nemhvdSIsImJ1Y2tldCI6Imxkc2d5LXN0b3JhZ2UiLCJwcmVmaXgiOiJ0ZXN0IiwiZXh0ZXJuYWxJZCI6InRlc3RFeHRlcm5hbElkIn0.-PbjxIvj51jekT2doSQhuycvuvwj_2yvD04YX_QaqoE",
+  "prefix": "test",
+  "region": "cn-hangzhou",
+}
+`;
+
+exports[`storage service upload 1`] = `
+{
+  "bucket": "ldsgy-storage",
+  "credentialsUri": "https://ali-oss-credentials.ldsgy.com/credential?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWdpb24iOiJjbi1oYW5nemhvdSIsImJ1Y2tldCI6Imxkc2d5LXN0b3JhZ2UiLCJwcmVmaXgiOiJ0ZXN0IiwiZXh0ZXJuYWxJZCI6InRlc3RFeHRlcm5hbElkIn0.-PbjxIvj51jekT2doSQhuycvuvwj_2yvD04YX_QaqoE",
+  "prefix": "test",
+  "region": "cn-hangzhou",
+}
+`;

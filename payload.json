@@ -1,0 +1,5 @@
+{
+  "bucket": "ldsgy-storage",
+  "prefix": "test",
+  "externalId": "testExternalId"
+}
